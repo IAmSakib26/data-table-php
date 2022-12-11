@@ -1,0 +1,7 @@
+.link-page{display: flex;justify-content: center;align-items: center;margin: 100px 0;background: #181919;width: auto;height: 200px;}
+.login{margin: 10px 0;}
+.dashboard{height: 100vh;width: 100%;}
+.loginImg{width: auto;height: 300px;}
+.welcomImg img { width: 500px; height: 200px; }
+.regForm{width: 100%;border: 1px solid #fff;padding: 20px;border-radius: 10px;}
+.updateForm{width: auto;border: 1px solid #fff;padding: 20px;border-radius: 10px;}
